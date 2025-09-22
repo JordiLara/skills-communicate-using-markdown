@@ -12,3 +12,7 @@ def hello():
     print("¡hello Yaktocat!")
 
 hello()
+
+- [ ] Yactocat it's a cat
+- [ ] Yactocat it's an octopuss
+- [x] Yactocat it's a cat and an octopuss
