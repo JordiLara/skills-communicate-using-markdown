@@ -4,3 +4,5 @@
 #### header 4, here.
 ##### 5, there is the header 5.
 ###### I'm the last header, the number 6.
+
+![Yaktocat, it's a character made of a cat and an octopuss.](https://octodex.github.com/images/yaktocat.png)
