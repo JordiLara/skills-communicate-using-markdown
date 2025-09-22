@@ -6,3 +6,9 @@
 ###### I'm the last header, the number 6.
 
 ![Yaktocat, it's a character made of a cat and an octopuss.](https://octodex.github.com/images/yaktocat.png)
+
+```python
+def hello():
+    print("¡hello Yaktocat!")
+
+hello()
